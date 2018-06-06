@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/liatrio/jira-node-automation/issues"
   },
-  "homepage": "https://github.com/liatrio/jira-node-automation#readme"
+  "homepage": "https://github.com/liatrio/jira-node-automation#readme",
+  "dependencies": {
+    "jira-connector": "^2.8.0"
+  }
 }
